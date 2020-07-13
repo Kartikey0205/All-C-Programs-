@@ -7,52 +7,52 @@ Hey guys, all the program which is here is only to help students not to make the
 #
 I provide the code file with name p1.c,p2.c,p3.c .....so on so you guys here take the reference which program is behind these names.
 
-** 
-// this means it is comment part of a program , sometimes in this comment part you get some excercise to solve  
+ 
+## // and /* */ this means it is comment part of a program , sometimes in this comment part you get some excercise to solve  
 
 
-I also provide output of the program  as comment.
+#### I also provide output of the program  as comment.
 
 # LIST OF PROGRAMS
 
-//Basics Programs
+## Basics Programs
 
-p1.c =    WAP to print Hello World !
+#### p1.c =    WAP to print Hello World !
 #
-p2.c =    WAP to print my name and see the use of various Escape sequence
+#### p2.c =    WAP to print my name and see the use of various Escape sequence
 #
-p3.c =    WAP to add , sub. , multiply , divide two numbers
+#### p3.c =    WAP to add , sub. , multiply , divide two numbers
 #
-p4.c =    WAP to find square & cube of a number
+#### p4.c =    WAP to find square & cube of a number
 #
-p5.c =    WAP to find area by Heron's formula
+#### p5.c =    WAP to find area by Heron's formula
 #
-p6.c =    WAP to find area & circumference of circle.
+#### p6.c =    WAP to find area & circumference of circle.
 #
-p7.c =    WAP to convert degree celsius to farenheit
+#### p7.c =    WAP to convert degree celsius to farenheit
 #
-p8.c =    WAP to print ASCII value of character
+#### p8.c =    WAP to print ASCII value of character
 #
-p9.c =    WAP to swap two numbers with the help of third variable
+#### p9.c =    WAP to swap two numbers with the help of third variable
 #
-p10.c =   WAP to swap two numbers without using  third variable
+#### p10.c =   WAP to swap two numbers without using  third variable
 #
-p11.c =   WAP to find average of 5 numbers
+#### p11.c =   WAP to find average of 5 numbers
 #
-p12.c =   WAP to find Simple Interest 
+#### p12.c =   WAP to find Simple Interest 
 #
-// Programs  based on # Operators
+## Programs  based on # Operators
 
-p13.c =   WAP to see the how increment/decrement operators work 
+#### p13.c =   WAP to see the how increment/decrement operators work 
 #
-p14.c =   WAP to find the size of datatypes, variable, constant
+#### p14.c =   WAP to find the size of datatypes, variable, constant
 #
-p15.c =   WAP to see the use of all Bitwise Operators
+#### p15.c =   WAP to see the use of all Bitwise Operators
 #
-p16.c =   WAP to see the use of all Relational Operators
+#### p16.c =   WAP to see the use of all Relational Operators
 #
-p17.c =   WAP to see the use of all Logical Operators
+#### p17.c =   WAP to see the use of all Logical Operators
 #
-// Programs based on Decision Control statement
+## Programs based on Decision Control statement
 
-p18.c =  
+#### p18.c =  
