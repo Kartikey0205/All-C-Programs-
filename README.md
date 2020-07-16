@@ -5,7 +5,7 @@ This Project is basically helpful for all college student who faces some problem
 Hey guys, all the program which is here is only to help students not to make them cheaters . I request you to please try it twice (try to build logic and think what the question ask) own,if after your loyal effort, logic not clicked then only come here and take this as a reference and after under standing it please try it again ,you will surely achieve sucess .
 
 #
-I provide the code file with name p1.c,p2.c,p3.c .....so on so you guys here take the reference which program is behind these names.
+I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys here take the reference which program is behind these names.
 
  
 ## // and /* */ this means it is comment part of a program , sometimes in this comment part you get some excercise to solve  
@@ -17,101 +17,101 @@ I provide the code file with name p1.c,p2.c,p3.c .....so on so you guys here tak
 
 ## Basics Programs
 
-#### p1.c =    WAP to print Hello World !
+#### p001.c =    WAP to print Hello World !
 #
-#### p2.c =    WAP to print my name and see the use of various Escape sequence
+#### p002.c =    WAP to print my name and see the use of various Escape sequence
 #
-#### p3.c =    WAP to add , sub. , multiply , divide two numbers
+#### p003.c =    WAP to add , sub. , multiply , divide two numbers
 #
-#### p4.c =    WAP to find square & cube of a number
+#### p004.c =    WAP to find square & cube of a number
 #
-#### p5.c =    WAP to find area by Heron's formula
+#### p005.c =    WAP to find area by Heron's formula
 #
-#### p6.c =    WAP to find area & circumference of circle.
+#### p006.c =    WAP to find area & circumference of circle.
 #
-#### p7.c =    WAP to convert degree celsius to farenheit
+#### p007.c =    WAP to convert degree celsius to farenheit
 #
-#### p8.c =    WAP to print ASCII value of character
+#### p008.c =    WAP to print ASCII value of character
 #
-#### p9.c =    WAP to swap two numbers with the help of third variable
+#### p009.c =    WAP to swap two numbers with the help of third variable
 #
-#### p10.c =   WAP to swap two numbers without using  third variable
+#### p010.c =   WAP to swap two numbers without using  third variable
 #
-#### p11.c =   WAP to find average of 5 numbers
+#### p011.c =   WAP to find average of 5 numbers
 #
-#### p12.c =   WAP to find Simple Interest 
+#### p012.c =   WAP to find Simple Interest 
 #
 ## Programs  based on # Operators
 
-#### p13.c =   WAP to see the how increment/decrement operators work 
+#### p013.c =   WAP to see the how increment/decrement operators work 
 #
-#### p14.c =   WAP to find the size of datatypes, variable, constant
+#### p014.c =   WAP to find the size of datatypes, variable, constant
 #
-#### p15.c =   WAP to see the use of all Bitwise Operators
+#### p015.c =   WAP to see the use of all Bitwise Operators
 #
-#### p16.c =   WAP to see the use of all Relational Operators
+#### p016.c =   WAP to see the use of all Relational Operators
 #
-#### p17.c =   WAP to see the use of all Logical Operators
+#### p017.c =   WAP to see the use of all Logical Operators
 #
 ## Programs based on Decision Control statement
 
-#### p18.c =   WAP to check whether he is eligible for vote or not 
+#### p018.c =   WAP to check whether he is eligible for vote or not 
 #
-#### p19.c =   WAP to check whether a number is even or odd 
+#### p019.c =   WAP to check whether a number is even or odd 
 #
-#### p20.c =   WAP to check whether a year is even or odd 
+#### p020.c =   WAP to check whether a year is even or odd 
 #
-#### p21.c =   WAP to check whether a number is positive or negative
+#### p021.c =   WAP to check whether a number is positive or negative
 #
-#### p22.c =   WAP to find a biiger in 2 no. by if-else-if  
+#### p022.c =   WAP to find a biiger in 2 no. by if-else-if  
 #
-#### p23.c =   WAP to see the use of nested-if-else  
+#### p023.c =   WAP to see the use of nested-if-else  
 #
-#### p24.c =   WAP to find largest of 3 no.s using nested-if-else 
+#### p024.c =   WAP to find largest of 3 no.s using nested-if-else 
 #
-#### p25.c =   WAP to find largest of 3 no.s using && operator 
+#### p025.c =   WAP to find largest of 3 no.s using && operator 
 #
-#### p26.c =   WAP to find largest of 3 no.s using ternary operator
+#### p026.c =   WAP to find largest of 3 no.s using ternary operator
 #
 ## Programs based on Loops
 
-#### p27.c =   WAP to reverse a number
+#### p027.c =   WAP to reverse a number
 #
-#### p28.c =   WAP to print 20 numbers one by one
+#### p028.c =   WAP to print 20 numbers one by one
 #
-#### p29.c =   WAP to print multiplication of table 
+#### p029.c =   WAP to print multiplication of table 
 #
-#### p30.c =   WAP to print first N natural numbers
+#### p030.c =   WAP to print first N natural numbers
 #
-#### p31.c =   WAP to print first N natural numbers in reverse
+#### p031.c =   WAP to print first N natural numbers in reverse
 #
-#### p32.c =   WAP to print first 10 natural numbers
+#### p032.c =   WAP to print first 10 natural numbers
 #
-#### p33.c =   WAP to print first 10 natural numbers in reverse
+#### p033.c =   WAP to print first 10 natural numbers in reverse
 #
-#### p34.c =   WAP to print first N even natural numbers
+#### p034.c =   WAP to print first N even natural numbers
 #
-#### p35.c =   WAP to print first 10 even natural numbers
+#### p035.c =   WAP to print first 10 even natural numbers
 #
-#### p36.c =   WAP to print first N odd natural numbers
+#### p036.c =   WAP to print first N odd natural numbers
 #
-#### p37.c =   WAP to print first 10 odd natural numbers
+#### p037.c =   WAP to print first 10 odd natural numbers
 #
-#### p38.c =   WAP to count digits of a number
+#### p038.c =   WAP to count digits of a number
 #
-#### p39.c =   WAP to calculate sum of digit of number
+#### p039.c =   WAP to calculate sum of digit of number
 #
-#### p40.c =   WAP to calculate sum of first N natural number
+#### p040.c =   WAP to calculate sum of first N natural number
 #
-#### p41.c =   WAP to calculate product of first N natural number
+#### p041.c =   WAP to calculate product of first N natural number
 #
-#### p42.c =   WAP to calculate LCM of 2 no.
+#### p042.c =   WAP to calculate LCM of 2 no.
 #
-#### p43.c =   WAP to calculate GCD of 2 no.
+#### p043.c =   WAP to calculate GCD of 2 no.
 #
-#### p44.c =   WAP 
+#### p044.c =   WAP 
 #
-#### p45.c =   WAP
+#### p045.c =   WAP
 #
-#### p46.c =   WAP
+#### p046.c =   WAP
 #
