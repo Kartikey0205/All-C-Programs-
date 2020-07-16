@@ -55,4 +55,63 @@ I provide the code file with name p1.c,p2.c,p3.c .....so on so you guys here tak
 #
 ## Programs based on Decision Control statement
 
-#### p18.c =  
+#### p18.c =   WAP to check whether he is eligible for vote or not 
+#
+#### p19.c =   WAP to check whether a number is even or odd 
+#
+#### p20.c =   WAP to check whether a year is even or odd 
+#
+#### p21.c =   WAP to check whether a number is positive or negative
+#
+#### p22.c =   WAP to find a biiger in 2 no. by if-else-if  
+#
+#### p23.c =   WAP to see the use of nested-if-else  
+#
+#### p24.c =   WAP to find largest of 3 no.s using nested-if-else 
+#
+#### p25.c =   WAP to find largest of 3 no.s using && operator 
+#
+#### p26.c =   WAP to find largest of 3 no.s using ternary operator
+#
+## Programs based on Loops
+
+#### p27.c =   WAP to reverse a number
+#
+#### p28.c =   WAP to print 20 numbers one by one
+#
+#### p29.c =   WAP to print multiplication of table 
+#
+#### p30.c =   WAP to print first N natural numbers
+#
+#### p31.c =   WAP to print first N natural numbers in reverse
+#
+#### p32.c =   WAP to print first 10 natural numbers
+#
+#### p33.c =   WAP to print first 10 natural numbers in reverse
+#
+#### p34.c =   WAP to print first N even natural numbers
+#
+#### p35.c =   WAP to print first 10 even natural numbers
+#
+#### p36.c =   WAP to print first N odd natural numbers
+#
+#### p37.c =   WAP to print first 10 odd natural numbers
+#
+#### p38.c =   WAP to count digits of a number
+#
+#### p39.c =   WAP to calculate sum of digit of number
+#
+#### p40.c =   WAP to calculate sum of first N natural number
+#
+#### p41.c =   WAP to calculate product of first N natural number
+#
+#### p42.c =   WAP to calculate LCM of 2 no.
+#
+#### p43.c =   WAP to calculate GCD of 2 no.
+#
+#### p44.c =   WAP 
+#
+#### p45.c =   WAP
+#
+#### p46.c =   WAP
+#
