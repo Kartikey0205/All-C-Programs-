@@ -45,7 +45,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 
 #### p013.c =   WAP to see the how increment/decrement operators work 
 #
-#### p014.c =   WAP to find the size of datatypes, variable, constant
+#### p014.c =   WAP to find the size of datatypes
 #
 #### p015.c =   WAP to see the use of all Bitwise Operators
 #
