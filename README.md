@@ -1,6 +1,8 @@
 		                                       # All-C-Programs-
 This Project is basically helpful for all college student who faces some problem in their written program , kindly refer this here i provide atmost all program of C  which should be known to one college student. 
 
+#### Guys only refer to master branch because in gh branch you will confused , so for you it is better to see only in master branch as it is sequential.
+
 # //REQUEST -  PLEASE UNDERSTAND//
 Hey guys, all the program which is here is only to help students not to make them cheaters . I request you to please try it twice (try to build logic and think what the question ask) own,if after your loyal effort, logic not clicked then only come here and take this as a reference and after under standing it please try it again ,you will surely achieve sucess .
 
