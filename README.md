@@ -59,11 +59,11 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p019.c =   WAP to check whether a number is even or odd 
 #
-#### p020.c =   WAP to check whether a year is even or odd 
+#### p020.c =   WAP to check whether a year is leap year or not 
 #
 #### p021.c =   WAP to check whether a number is positive or negative
 #
-#### p022.c =   WAP to find a biiger in 2 no. by if-else-if  
+#### p022.c =   WAP to find a bigger in 2 no. by if-else  
 #
 #### p023.c =   WAP to see the use of nested-if-else  
 #
