@@ -87,29 +87,29 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p031.c =   WAP to print first N natural numbers in reverse
 #
-#### p032.c =   WAP to print first 10 natural numbers
+#### p032.c =   WAP to print first N even natural numbers
 #
-#### p033.c =   WAP to print first 10 natural numbers in reverse
+#### p033.c =   WAP to print first N odd natural numbers
 #
-#### p034.c =   WAP to print first N even natural numbers
+#### p034.c =   WAP to count digits of a number 
 #
-#### p035.c =   WAP to print first 10 even natural numbers
+#### p035.c =   WAP to calculate sum of digit of number
 #
-#### p036.c =   WAP to print first N odd natural numbers
+#### p036.c =   WAP to calculate sum of first N natural number
 #
-#### p037.c =   WAP to print first 10 odd natural numbers
+#### p037.c =   WAP to calculate product of first N natural number
 #
-#### p038.c =   WAP to count digits of a number
+#### p038.c =  WAP to calculate LCM of 2 no.
 #
-#### p039.c =   WAP to calculate sum of digit of number
+#### p039.c =   WAP to calculate GCD of 2 no.
 #
-#### p040.c =   WAP to calculate sum of first N natural number
+#### p040.c =   WAP 
 #
-#### p041.c =   WAP to calculate product of first N natural number
+#### p041.c =   WAP 
 #
-#### p042.c =   WAP to calculate LCM of 2 no.
+#### p042.c =   WAP 
 #
-#### p043.c =   WAP to calculate GCD of 2 no.
+#### p043.c =   WAP 
 #
 #### p044.c =   WAP 
 #
