@@ -75,7 +75,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p026.c =   WAP to find largest of 3 no.s using ternary operator
 #
-## Programs based on Loops
+## Programs based on Loops and Switch Case
 
 #### p027.c =   WAP to reverse a number
 #
@@ -99,21 +99,36 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p037.c =   WAP to calculate product of first N natural number
 #
-#### p038.c =  WAP to calculate LCM of 2 no.
+#### p038.c =   WAP to calculate LCM of 2 no.
 #
 #### p039.c =   WAP to calculate GCD of 2 no.
 #
-#### p040.c =   WAP 
+#### p040.c =   WAP to all armstrong number under 100
 #
-#### p041.c =   WAP 
+#### p041.c =   WAP to calculate x power y
 #
-#### p042.c =   WAP 
+#### p042.c =   WAP to calcuate to check whether a number is prime or not 
 #
-#### p043.c =   WAP 
+#### p043.c =   WAP to print all prime number between two numbers
 #
-#### p044.c =   WAP 
+#### p044.c =   WAP to print all prime factors of a number in C
 #
-#### p045.c =   WAP
+#### p045.c =   WAP to calculate sum of all even and odd natural number 
 #
-#### p046.c =   WAP
+#### p046.c =   WAP to print upto 10 terms of Fibonacci series
 #
+#### p047.c =   WAP to print 10 horizontal asterick(*)
+#
+#### p048.c =   WAP to print average of 5 numbers
+#
+#### p049.c =   WAP tp print factorial of a number
+#
+#### p050.c =   WAP to give a 5 chance to play a match to win (switch case)
+#
+#### p051.c =   WAP to print calculator
+#
+#### p052.c =   WAP to demonstrate use of switch case without break
+#
+#### p053.c =   WAP to enter a number from 1-7 and display corresponding day of week using switch case
+#
+## Programs  based on Problems to print various types of Star Pattern 
