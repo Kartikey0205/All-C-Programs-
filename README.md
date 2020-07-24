@@ -131,42 +131,44 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p053.c =   WAP to enter a number from 1-7 and display corresponding day of week using switch case
 #
+#### p054.c =   WAP to conversion of kms to miles , inches to foot , cms to inches , pounds to kgs , inches to meter
+#
 ## Programs  based on Problems to print various types of Star Pattern 
 #
-#### p054.c = Star Pattern 1
+#### p055.c = Star Pattern 1
 #
-#### p055.c = Star Pattern 2
+#### p056.c = Star Pattern 2
 #
-#### p056.c = Star Pattern 3
+#### p057.c = Star Pattern 3
 #
-#### p057.c = Star Pattern 4
+#### p058.c = Star Pattern 4
 #
-#### p058.c = Star Pattern 5
+#### p059.c = Star Pattern 5
 #
-#### p059.c = Star Pattern 6
+#### p060.c = Star Pattern 6
 #
-#### p060.c = Star Pattern 7
+#### p061.c = Star Pattern 7
 #
-#### p061.c = Star Pattern 8
+#### p062.c = Star Pattern 8
 #
-#### p062.c = Star Pattern 9
+#### p063.c = Star Pattern 9
 #
-#### p063.c = Star Pattern 10
+#### p064.c = Star Pattern 10
 #
 ##  Programs  based on Functions and Recursion
 #
-#### p064.c = WAP to add 2 integer using function. 
+#### p065.c = WAP to add 2 integer using function. 
 #
-#### p065.c = WAP to print area of triangle
+#### p066.c = WAP to print area of triangle
 #
-#### p066.c = WAP to find largest of 3 numbers 
+#### p067.c = WAP to find largest of 3 numbers 
 #
-#### p067.c = WAP to swap 2 numbers using Call By Value 
+#### p068.c = WAP to swap 2 numbers using Call By Value 
 #
-#### p068.c = WAP to swap 2 numbers using Call By Reference
+#### p069.c = WAP to swap 2 numbers using Call By Reference
 #
-#### p069.c = WAP to print factorial of a number
+#### p070.c = WAP to print factorial of a number
 #
-#### p070.c = WAP to find square of number
+#### p071.c = WAP to find square of number
 #
-#### p071.c = WAP 
+#### p072.c = WAP 
