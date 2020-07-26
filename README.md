@@ -171,4 +171,76 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p071.c = WAP to find square of number
 #
-#### p072.c = WAP 
+#### p072.c = WAP to print Fibonacci series
+#
+#### p073.c = WAP to calculate GCD 
+#
+#### p074.c = WAP to print Fibonacci series
+#
+##  Programs  based on Array
+#
+#### p075.c = WAP to read and display n numbers using array
+#
+#### p076.c = WAP to print position of smallest of n number using arrray
+#
+#### p077.c = WAP to interchange largest and smallest number in array
+#
+#### p078.c = WAP to enter n number of digits from a number using these digits
+#
+#### p079.c = WAP to find whether the array of integer contains a duplicate number 
+#
+#### p080.c = WAP to sum average of 5 numbers 
+#
+#### p081.c = WAP to sort an aray
+#
+#### p082.c = WAP to merge 2 sorted array 
+#
+#### p083.c = WAP to merge 2 unsorted array
+#
+#### p083.c = WAP to find largest / smallest / second largest number in array
+#
+#### p084.c = WAP to print elements of 2-D matrix
+#
+#### p085.c = WAP to print matrix for addition / subtraction / multiplication / transpose
+#
+#### p086.c = WAP to print elements of 3-D matrix [3*3]
+#
+## Programs based String 
+#
+#### p087.c = WAP to display a string using printf()
+#
+#### p088.c = WAP to find length of a string 
+#
+#### p089.c = WAP to concatenate two string 
+#
+#### p090.c = WAP to compare 2 string 
+#
+#### p091.c = WAP to reverse a string 
+#
+#### p092.c = WAP to copy one string into another 
+#
+#### p093.c = WAP to display program using strchar 
+#
+#### p094.c = WAP to display program using strstr
+#
+## Program based on Pointers
+#
+#### p095.c = WAP to print Hello World using pointers
+#
+#### p096.c = WAP to calculate area of a traingle using function and pointers 
+#
+#### p097.c = WAP to find largest of 3 numbers usimg functions and pointers 
+#
+#### p098.c = WAP to print program using void pointer
+#
+#### p099.c = WAP to add / sub / multiply / divide  2 numbers using pointers
+#
+#### p100.c = WAP to add 2 numbers using function and pointer
+#
+#### p101.c = WAP to display  an array of given numbers 
+#
+#### p102.c = WAP to print double pointer
+#
+## Program based on Dyanmic Memory Allocation 
+#
+#### p103.c = 
