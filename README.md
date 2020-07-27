@@ -95,11 +95,11 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p035.c =   WAP to calculate sum of digit of number
 #
-#### p036.c =   WAP to calculate sum of first N natural number
+#### p036.c =   WAP to calculate LCM of 2 no.
 #
-#### p037.c =   WAP to calculate product of first N natural number
+#### p037.c =   WAP to calculate sum of first N natural number
 #
-#### p038.c =   WAP to calculate LCM of 2 no.
+#### p038.c =   WAP to calculate product of first N natural number
 #
 #### p039.c =   WAP to calculate GCD of 2 no.
 #
