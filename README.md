@@ -103,7 +103,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p039.c =   WAP to calculate GCD of 2 no.
 #
-#### p040.c =   WAP to all armstrong number under 100
+#### p040.c =   WAP to all armstrong number under 1000
 #
 #### p041.c =   WAP to calculate x power y
 #
