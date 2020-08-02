@@ -117,7 +117,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p046.c =   WAP to print 10 horizontal asterick(*)
 #
-#### p047.c =   WAP to print average of 5 numbers
+#### p047.c =   WAP to print average of N numbers
 #
 #### p048.c =   WAP tp print factorial of a number
 #
