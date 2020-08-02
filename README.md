@@ -117,125 +117,123 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p046.c =   WAP to print 10 horizontal asterick(*)
 #
-#### p047.c =   WAP to print average of N numbers
+#### p047.c =   WAP tp print factorial of a number
 #
-#### p048.c =   WAP tp print factorial of a number
+#### p048.c =   WAP to give a 5 chance to play a match to win (switch case)
 #
-#### p049.c =   WAP to give a 5 chance to play a match to win (switch case)
+#### p049.c =   WAP to print calculator
 #
-#### p050.c =   WAP to print calculator
+#### p050.c =   WAP to demonstrate use of switch case without break
 #
-#### p051.c =   WAP to demonstrate use of switch case without break
+#### p051.c =   WAP to enter a number from 1-7 and display corresponding day of week using switch case
 #
-#### p052.c =   WAP to enter a number from 1-7 and display corresponding day of week using switch case
-#
-#### p053.c =   WAP to conversion of kms to miles , inches to foot , cms to inches , pounds to kgs , inches to meter
+#### p052.c =   WAP to conversion of kms to miles , inches to foot , cms to inches , pounds to kgs , inches to meter
 #
 ## Programs  based on Problems to print various types of Star Pattern 
 #
-#### p054.c = Star Pattern 1
+#### p053.c = Star Pattern 1
 #
-#### p055.c = Star Pattern 2
+#### p054.c = Star Pattern 2
 #
-#### p056.c = Star Pattern 3
+#### p055.c = Star Pattern 3
 #
-#### p057.c = Star Pattern 4
+#### p056.c = Star Pattern 4
 #
-#### p058.c = Star Pattern 5
+#### p057.c = Star Pattern 5
 #
-#### p059.c = Star Pattern 6
+#### p058.c = Star Pattern 6
 #
-#### p060.c = Star Pattern 7
+#### p059.c = Star Pattern 7
 #
-#### p061.c = Star Pattern 8
+#### p060.c = Star Pattern 8
 #
-#### p062.c = Star Pattern 9
+#### p061.c = Star Pattern 9
 #
-#### p063.c = Star Pattern 10
+#### p062.c = Star Pattern 10
 #
 ##  Programs  based on Functions and Recursion
 #
-#### p064.c = WAP to add 2 integer using function. 
+#### p063.c = WAP to add 2 integer using function. 
 #
-#### p065.c = WAP to print area of triangle
+#### p064.c = WAP to print area of triangle
 #
-#### p066.c = WAP to find largest of 3 numbers 
+#### p065.c = WAP to find largest of 3 numbers 
 #
-#### p067.c = WAP to swap 2 numbers using Call By Value 
+#### p066.c = WAP to swap 2 numbers using Call By Value 
 #
-#### p068.c = WAP to swap 2 numbers using Call By Reference
+#### p067.c = WAP to swap 2 numbers using Call By Reference
 #
-#### p069.c = WAP to print factorial of a number
+#### p068.c = WAP to print factorial of a number
 #
-#### p070.c = WAP to find square of number
+#### p069.c = WAP to find square of number
 #
-#### p071.c = WAP to print Fibonacci series
+#### p070.c = WAP to print Fibonacci series
 #
-#### p072.c = WAP to calculate GCD 
+#### p071.c = WAP to calculate GCD 
 #
-#### p073.c = WAP to print Fibonacci series
+#### p072.c = WAP to print Fibonacci series
 #
 ##  Programs  based on Array
 #
-#### p074.c = WAP to read and display n numbers using array
+#### p073.c = WAP to read and display n numbers using array
 #
-#### p075.c = WAP to print position of smallest of n number using arrray
+#### p074.c = WAP to print position of smallest of n number using arrray
 #
-#### p076.c = WAP to interchange largest and smallest number in array
+#### p075.c = WAP to interchange largest and smallest number in array
 #
-#### p077.c = WAP to enter n number of digits from a number using these digits
+#### p076.c = WAP to enter n number of digits from a number using these digits
 #
-#### p078.c = WAP to find whether the array of integer contains a duplicate number 
+#### p077.c = WAP to find whether the array of integer contains a duplicate number 
 #
-#### p079.c = WAP to sum average of 5 numbers 
+#### p078.c = WAP to sum average of 5 numbers 
 #
-#### p080.c =   WAP to calculate sum of all even and odd natural number in an array
+#### p079.c =   WAP to calculate sum of all even and odd natural number in an array
 #
-#### p081.c =   WAP to reverse an array 
+#### p080.c =   WAP to reverse an array 
 #
-#### p082.c = WAP to sort an aray
+#### p081.c = WAP to sort an aray
 #
-#### p083.c = WAP to merge 2 sorted array 
+#### p082.c = WAP to merge 2 sorted array 
 #
-#### p084.c = WAP to merge 2 unsorted array
+#### p083.c = WAP to merge 2 unsorted array
 #
-#### p085.c = WAP to find largest / smallest / second largest number in array
+#### p084.c = WAP to find largest / smallest / second largest number in array
 #
-#### p086.c = WAP to print elements of 2-D matrix
+#### p085.c = WAP to print elements of 2-D matrix
 #
-#### p087.c = WAP to print matrix for addition / subtraction / multiplication / transpose
+#### p086.c = WAP to print matrix for addition / subtraction / multiplication / transpose
 #
-#### p088.c = WAP to print elements of 3-D matrix [3*3]
+#### p087.c = WAP to print elements of 3-D matrix [3*3]
 #
 ## Programs based String 
 #
-#### p089.c = WAP to display a string using printf()
+#### p088.c = WAP to display a string using printf()
 #
-#### p090.c = WAP to find length of a string 
+#### p089.c = WAP to find length of a string 
 #
-#### p091.c = WAP to concatenate two string 
+#### p090.c = WAP to concatenate two string 
 #
-#### p092.c = WAP to compare 2 string 
+#### p091.c = WAP to compare 2 string 
 #
-#### p093.c = WAP to reverse a string 
+#### p092.c = WAP to reverse a string 
 #
-#### p094.c = WAP to copy one string into another 
+#### p093.c = WAP to copy one string into another 
 #
-#### p095.c = WAP to display program using strchar 
+#### p094.c = WAP to display program using strchar 
 #
-#### p096.c = WAP to display program using strstr
+#### p095.c = WAP to display program using strstr
 #
 ## Program based on Pointers
 #
-#### p097.c = WAP to print Hello World using pointers
+#### p096.c = WAP to print Hello World using pointers
 #
-#### p098.c = WAP to calculate area of a traingle using function and pointers 
+#### p097.c = WAP to calculate area of a traingle using function and pointers 
 #
-#### p099.c = WAP to find largest of 3 numbers usimg functions and pointers 
+#### p098.c = WAP to find largest of 3 numbers usimg functions and pointers 
 #
-#### p100.c = WAP to print program using void pointer
+#### p099.c = WAP to print program using void pointer
 #
-#### p101.c = WAP to add / sub / multiply / divide  2 numbers using pointers
+#### p100.c = WAP to add / sub / multiply / divide  2 numbers using pointers
 #
 #### p101.c = WAP to add 2 numbers using function and pointer
 #
@@ -245,4 +243,24 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 ## Program based on Dyanmic Memory Allocation 
 #
-#### p104.c = 
+#### p104.c = WAP to read and display value of an integer array allocating space dynamically for array using malloc()
+#
+#### p105.c = WAP to read and display value of an integer array allocating space dynamically for array using calloc()
+#
+## Program based on Structure and Union and Enum 
+#
+#### p106.c = WAP using Structure to read and display information about student
+#
+#### p107.c = WAP using Structure to find largest of 3 numbers 
+#
+#### p108.c = WAP using Union to read and display information about student
+#
+#### p109.c = WAP using Union to find largest of 3 numbers 
+#
+#### p110.c = WAP to read and display information about student usinfg structure within structure
+#
+#### p111.c = WAP using Structure to read and display information about student
+#
+#### p112.c = WAP to display name of colors using enumerated data type
+#
+## Program based on file 
