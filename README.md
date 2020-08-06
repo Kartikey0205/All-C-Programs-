@@ -132,20 +132,60 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 ## Programs  based on Problems to print various types of Star Pattern 
 #
 #### p053.c = Star Pattern 1
+    * * * * * * *
+    * * * * * * *
+    * * * * * * *
+    * * * * * * *
+    * * * * * * *
 #
-#### p054.c = Star Pattern 2
-#
+#### p054.c = Star Pattern 2 
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+# 
 #### p055.c = Star Pattern 3
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
 #
 #### p056.c = Star Pattern 4
+    1
+    2 2
+    3 3 3
+    4 4 4 4
+    5 5 5 5 5
 #
 #### p057.c = Star Pattern 5
+      0
+      1 2
+      3 4 5
+      6 7 8 9
 #
 #### p058.c = Star Pattern 6
+       A
+       A B
+       A B C
+       A B C D
+       A B C D E
+       A B C D E F
 #
 #### p059.c = Star Pattern 7
+            1
+          1 2
+        1 2 3
+      1 2 3 4
+    1 2 3 4 5
 #
 #### p060.c = Star Pattern 8
+            1
+          1 2 1
+        1 2 3 2 1
+      1 2 3 4 3 2 1
+    1 2 3 4 5 4 3 2 1
 #
 #### p061.c = Star Pattern 9
 #
