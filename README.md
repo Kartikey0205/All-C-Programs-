@@ -188,8 +188,20 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
     1 2 3 4 5 4 3 2 1
 #
 #### p061.c = Star Pattern 9
+              1
+             1 2
+            1 2 3
+           1 2 3 4 
+          1 2 3 4 5  
 #
 #### p062.c = Star Pattern 10
+      * * * * * * * 
+      *           *
+      *   * * *   *
+      *   *   *   *
+      *   * * *   *
+      *           *
+      * * * * * * *
 #
 ##  Programs  based on Functions and Recursion
 #
@@ -207,100 +219,98 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p069.c = WAP to find square of number
 #
-#### p070.c = WAP to print Fibonacci series
+#### p070.c = WAP to print Fibonacci series with recursion
 #
 #### p071.c = WAP to calculate GCD 
 #
-#### p072.c = WAP to print Fibonacci series
-#
 ##  Programs  based on Array
 #
-#### p073.c = WAP to read and display n numbers using array
+#### p072.c = WAP to read and display n numbers using array
 #
-#### p074.c = WAP to print position of smallest of n number using arrray
+#### p073.c = WAP to print position of smallest of n number using arrray
 #
-#### p075.c = WAP to interchange largest and smallest number in array
+#### p074.c = WAP to interchange largest and smallest number in array
 #
-#### p076.c = WAP to enter n number of digits from a number using these digits
+#### p075.c = WAP to enter n number of digits from a number using these digits
 #
-#### p077.c = WAP to find whether the array of integer contains a duplicate number 
+#### p076.c = WAP to find whether the array of integer contains a duplicate number 
 #
-#### p078.c = WAP to sum average of 5 numbers 
+#### p077.c = WAP to sum average of 5 numbers 
 #
-#### p079.c =   WAP to calculate sum of all even and odd natural number in an array
+#### p078.c =   WAP to calculate sum of all even and odd natural number in an array
 #
-#### p080.c =   WAP to reverse an array 
+#### p079.c =   WAP to reverse an array 
 #
-#### p081.c = WAP to sort an aray
+#### p080.c = WAP to sort an aray
 #
-#### p082.c = WAP to merge 2 sorted array 
+#### p081.c = WAP to merge 2 sorted array 
 #
-#### p083.c = WAP to merge 2 unsorted array
+#### p082.c = WAP to merge 2 unsorted array
 #
-#### p084.c = WAP to find largest / smallest / second largest number in array
+#### p083.c = WAP to find largest / smallest / second largest number in array
 #
-#### p085.c = WAP to print elements of 2-D matrix
+#### p084.c = WAP to print elements of 2-D matrix
 #
-#### p086.c = WAP to print matrix for addition / subtraction / multiplication / transpose
+#### p085.c = WAP to print matrix for addition / subtraction / multiplication / transpose
 #
-#### p087.c = WAP to print elements of 3-D matrix [3*3]
+#### p086.c = WAP to print elements of 3-D matrix [3*3]
 #
 ## Programs based String 
 #
-#### p088.c = WAP to display a string using printf()
+#### p087.c = WAP to display a string using printf()
 #
-#### p089.c = WAP to find length of a string 
+#### p088.c = WAP to find length of a string 
 #
-#### p090.c = WAP to concatenate two string 
+#### p089.c = WAP to concatenate two string 
 #
-#### p091.c = WAP to compare 2 string 
+#### p090.c = WAP to compare 2 string 
 #
-#### p092.c = WAP to reverse a string 
+#### p091.c = WAP to reverse a string 
 #
-#### p093.c = WAP to copy one string into another 
+#### p092.c = WAP to copy one string into another 
 #
-#### p094.c = WAP to display program using strchar 
+#### p093.c = WAP to display program using strchar 
 #
-#### p095.c = WAP to display program using strstr
+#### p094.c = WAP to display program using strstr
 #
 ## Program based on Pointers
 #
-#### p096.c = WAP to print Hello World using pointers
+#### p095.c = WAP to print Hello World using pointers
 #
-#### p097.c = WAP to calculate area of a traingle using function and pointers 
+#### p096.c = WAP to calculate area of a traingle using function and pointers 
 #
-#### p098.c = WAP to find largest of 3 numbers usimg functions and pointers 
+#### p097.c = WAP to find largest of 3 numbers usimg functions and pointers 
 #
-#### p099.c = WAP to print program using void pointer
+#### p098.c = WAP to print program using void pointer
 #
-#### p100.c = WAP to add / sub / multiply / divide  2 numbers using pointers
+#### p099.c = WAP to add / sub / multiply / divide  2 numbers using pointers
 #
-#### p101.c = WAP to add 2 numbers using function and pointer
+#### p100.c = WAP to add 2 numbers using function and pointer
 #
-#### p102.c = WAP to display  an array of given numbers 
+#### p101.c = WAP to display  an array of given numbers 
 #
-#### p103.c = WAP to print double pointer
+#### p102.c = WAP to print double pointer
 #
 ## Program based on Dyanmic Memory Allocation 
 #
-#### p104.c = WAP to read and display value of an integer array allocating space dynamically for array using malloc()
+#### p103.c = WAP to read and display value of an integer array allocating space dynamically for array using malloc()
 #
-#### p105.c = WAP to read and display value of an integer array allocating space dynamically for array using calloc()
+#### p104.c = WAP to read and display value of an integer array allocating space dynamically for array using calloc()
 #
 ## Program based on Structure and Union and Enum 
 #
-#### p106.c = WAP using Structure to read and display information about student
+#### p105.c = WAP using Structure to read and display information about student
 #
-#### p107.c = WAP using Structure to find largest of 3 numbers 
+#### p106.c = WAP using Structure to find largest of 3 numbers 
 #
-#### p108.c = WAP using Union to read and display information about student
+#### p107.c = WAP using Union to read and display information about student
 #
-#### p109.c = WAP using Union to find largest of 3 numbers 
+#### p108.c = WAP using Union to find largest of 3 numbers 
 #
-#### p110.c = WAP to read and display information about student usinfg structure within structure
+#### p109.c = WAP to read and display information about student usinfg structure within structure
 #
-#### p111.c = WAP using Structure to read and display information about student
+#### p110.c = WAP using Structure to read and display information about student
 #
-#### p112.c = WAP to display name of colors using enumerated data type
+#### p111.c = WAP to display name of colors using enumerated data type
 #
-## Program based on file 
+###      Thanks !!
