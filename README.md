@@ -307,12 +307,11 @@ I had given the code file with name like p001.c,p002.c,p003.c .....so on , so yo
 #
 #### p108.c = WAP using Union to read and display information about student
 #
-#### p109.c = WAP using Union to find largest of 3 numbers 
+#### p109.c = WAP to read and display information about student using structure within structure  
 #
-#### p110.c = WAP to read and display information about student using structure within structure
+#### p110.c = WAP to display name of colors using enumerated data type
 #
 #### p111.c = WAP to check whether a number is Even or Odd using enumerated data type
-#
-#### p112.c = WAP to display name of colors using enumerated data type
+
 #
 ###      Thanks !!
