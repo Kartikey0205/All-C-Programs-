@@ -1,19 +1,19 @@
-		                                       # All-C-Programs-
+#		                                       All-C-Programs- 
 This Project is basically helpful for all college student who faces some problem in their written program , kindly refer this here i provide atmost all program of C  which should be known to one college student. 
 
-#### Guys only refer to master branch because in gh branch you will confused , so for you it is better to see only in master branch as it is sequential.
+#### Guys only refer to master branch because in gh branch you will confused , so for you it is better to see only in master branch as it is  sequential.
 
-# //REQUEST -  PLEASE UNDERSTAND//
-Hey guys, all the program which is here is only to help students not to make them cheaters . I request you to please try it twice (try to build logic and think what the question ask) own,if after your loyal effort, logic not clicked then only come here and take this as a reference and after under standing it please try it again ,you will surely achieve sucess .
+## REQUEST -  PLEASE UNDERSTAND!!
+Hey guys, all the program which is here is only to help students not to make them cheaters . I request you to please try it before atleast two times (try to build logic and think what the question ask) by self,if after your loyal effort,the logic not clicked then only come here and take this as a reference and after understanding it please try it again ,you will surely achieve success .
 
 #
-I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys here take the reference which program is behind these names.
+I had given the code file with name like p001.c,p002.c,p003.c .....so on , so you guys here take the reference which program is behind these names.
 
  
 ## // and /* */ this means it is comment part of a program , sometimes in this comment part you get some excercise to solve  
 
 
-#### I also provide output of the program  as comment.
+#### I had also provided output of the program  below in each program file  as comment.
 
 # LIST OF PROGRAMS
 
@@ -43,7 +43,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p012.c =   WAP to find Simple Interest 
 #
-## Programs  based on # Operators
+## Programs  based on Operators
 
 #### p013.c =   WAP to see the how increment/decrement operators work 
 #
@@ -257,7 +257,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p087.c = WAP to print elements of 3-D matrix [3*3]
 #
-## Programs based String 
+## Programs based on String 
 #
 #### p088.c = WAP to display a string using printf()
 #
@@ -311,7 +311,7 @@ I provide the code file with name p001.c,p002.c,p003.c .....so on so you guys he
 #
 #### p110.c = WAP to read and display information about student usinfg structure within structure
 #
-#### p111.c = WAP using Structure to read and display information about student
+#### p111.c = WAP to check whether a number is Even or Odd using enumerated data type
 #
 #### p112.c = WAP to display name of colors using enumerated data type
 #
