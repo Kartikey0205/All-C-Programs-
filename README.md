@@ -317,4 +317,12 @@ I had given the code file with name like p001.c,p002.c,p003.c .....so on , so yo
 #
 #### p112.c = WAP to write Hello Student in file
 #
-###      Thanks !!
+#### p113.c = WAP to take string from user and print it in file 
+#
+#### p114.c = WAP how to read a data from a file
+#
+#### p115.c = WAP to read a file  using fgets() function
+#
+#### p116.c = WAP to write a file  using fputs() function
+#
+###    Thanks !!
